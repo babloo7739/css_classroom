@@ -1,0 +1,41 @@
+#outer{
+    border: 2px solid black;
+    width: 110px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: lightgrey;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+    top: 20px;
+    z-index: 1;
+    overflow: hidden; 
+}
+.inner{
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+    margin: 11px auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    position: relative;
+    top: 0px;
+    z-index: 2;
+    overflow: hidden;        
+}
+#red{
+    background-color: red;
+   
+}
+#yellow{
+    background-color: yellow;
+    
+}
+#green{
+    background-color: green;
+    
+}
+
+   

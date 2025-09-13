@@ -1,0 +1,25 @@
+*{
+    font-family:'Courier New';
+}
+h1{
+    color: #1b74e4;
+}
+#serch{
+    background-color: rgb(240, 242, 245);
+    border-radius: 20px;
+    height: 30px;
+    width: 400px;
+    border: none;
+    padding-left: 10px;
+}
+/* .userbtn{
+    background: aqua; 
+}*/
+#login,#register{
+    background-color: aqua;
+}
+div{
+    text-align: center;
+   
+    
+}

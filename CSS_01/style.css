@@ -1,0 +1,11 @@
+ h1 {
+            color: rgb(223, 208, 9);
+        }
+        p {
+            background-color: rgb(226, 211, 223);
+            color: rgba(86, 117, 89, 0.308);
+        }
+        button {
+            color: rgb(238, 13, 43);
+            background-color: rgb(204, 196, 191);
+        }
